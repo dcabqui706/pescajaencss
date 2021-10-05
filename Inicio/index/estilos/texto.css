@@ -1,0 +1,39 @@
+p {
+  width: 1700px;
+  height: 100px;
+  position: absolute;
+  top: 55%;
+  margin-top: -250px;
+  font-size: 1.2em;
+  margin-left: 20px;
+}
+h1{
+  width: 500px;
+  height: 500px;
+  position: absolute;
+  top: 50%;
+  margin-top: -250px;
+  
+ }
+ .linea {
+  border-top: 1px solid black;
+  height: 2px;
+  padding: 0;
+  margin: 20px auto 0 auto;
+}
+body {
+  background-color: #C6FF9D;
+}
+ #imagen1 {
+	width: 1000px;
+ 	height: 300px;
+ 	display:block;
+	margin:auto;
+	box-shadow: 5px 5px 5px #999;
+}
+.header1 {
+  padding: 10px;
+  text-align: center;
+  background: #FFFFFF;
+  color: white;
+}
